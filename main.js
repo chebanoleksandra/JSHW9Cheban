@@ -45,4 +45,5 @@ for (const item of paragraphs) {
     item.style.fontWeight = "400";
     item.style.fontSize = "16px";
     item.style.height = "30px";
+    item.style.textAlign = "justify";
 }
